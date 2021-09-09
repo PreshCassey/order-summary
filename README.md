@@ -24,14 +24,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   ### Screenshot
 
   **desktop mode
-  ![](./design/active-states.jpg)
+  ![](./design/desktop-design.jpg)
 
   **active/hover state
-  ![](./design\active-states.jpg)
+  ![](./design/active-states.jpg)
 
   ### Links
 
-  - Solution URL: [Add solution URL here](https://your-solution-url.com)
+  - Solution URL: [](https://github.com/PreshCassey/order-summary/)
   ### Built with
 
   - Semantic HTML5 markup
@@ -42,7 +42,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
   ## Author
 
-  - Website - [Precious Casmir](https://www.your-site.com)
+  - Website - [Precious Casmir](https://github.com/PreshCassey)
   - Frontend Mentor - [@Preshcassey](https://www.frontendmentor.io/profile/preshcassey)
   - Twitter - [@amarachi__p](https://www.twitter.com/amarachi__p)
 
