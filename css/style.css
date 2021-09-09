@@ -1,0 +1,79 @@
+body{
+    background: #E0E8FF;
+    width: 100%;
+    height: 100%; 
+    display: flex;
+}
+p, span, a {
+    font-family: 'Red Hat Display', sans-serif;
+}
+p{
+    color:#aabb;
+}
+a{
+    color:darkblue
+}
+a:hover{
+    color:#574fd1
+}
+.btn-checkout:hover{
+    background:#574fd1
+}
+.container{
+ margin-top: 60px;
+}
+.main-container{
+    border-radius: 5%;
+    justify-content: center;
+    width: 28rem;
+    margin: auto;
+    
+}
+.a-plan{
+background: #f0f5ff;
+    margin-bottom: 20px;
+    border: none;
+
+}
+.main-container:hover{
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transition: opacity 0.3s ease-in-out;
+}
+.card> img {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.order{
+    font-size: x-large;
+    font-weight: 900;
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+.attribution{
+    font-size: xx-small;
+    font-weight: 4;
+}
+.price{
+    font-size: 12px;
+}
+.annual{
+    font-size: 15px;
+}
+.order ~ p{
+    font-size: 17.5px;
+}
+.btn{
+    border-radius: 8px;
+    padding: 10px;
+}
+.btn-checkout{
+    background:#3c4de6;
+    box-shadow: 2px 9px #e3eafc
+}
+@media screen and (min-width: 375px) {
+    .main-container{
+        width: 28rem;
+        height: 35rem;
+        
+    }
+}
